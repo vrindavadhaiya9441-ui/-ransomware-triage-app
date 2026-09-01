@@ -1,0 +1,9 @@
+{
+  "low": 0.025,
+  "high": 0.9,
+  "queue_reduction": 0.9364,
+  "escalation_rate": 0.0636,
+  "auto_clear_rate": 0.48,
+  "auto_flag_rate": 0.4564,
+  "ransomware_missed": 1
+}
